@@ -19,16 +19,22 @@ a:hover {
   border: .05rem solid #fff;
 }
 
+.cover-heading {
+    font-family: 'Josefin Sans', sans-serif;
 
+}
 /*
  * Base structure
+ #020016;
+ 001c15;
  */
 
 html,
 body {
     height: 130%;
-  background-color: #020016;
+  background-color: #131414;
   scroll-behavior: smooth;
+  
 
 }
 
@@ -38,6 +44,8 @@ body {
   color: #fff;
   text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
   box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
+  font-family: 'Montserrat', sans-serif;
+
 }
 
 .cover-container {
@@ -107,4 +115,5 @@ body {
   color: rgba(255, 255, 255, .5);
 }
 .top-buffer { margin-top:7rem }
+.top-buffer-sml { margin-top: 2rem}
 .btm-buffer { margin-bottom: 2rem}
