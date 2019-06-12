@@ -1,0 +1,33 @@
+
+<svg width="240px" height="240px" viewBox="604 679 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="3.49768814%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#00F3AF" offset="0%"></stop>
+            <stop stop-color="#0068E2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="134.164601%" id="linearGradient-2">
+            <stop stop-color="#F5B800" offset="0%"></stop>
+            <stop stop-color="#FF0000" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Group-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(605.000000, 680.000000)">
+        <g id="Group-3-Copy" fill="#002866">
+            <g id="Group-Copy-2">
+                <g id="Group-2">
+                    <circle id="Oval" cx="119" cy="119" r="119"></circle>
+                </g>
+            </g>
+        </g>
+        <g id="Group-3-Copy-2">
+            <g id="Group-Copy-2">
+                <g id="Group-2">
+                    <circle id="Oval" stroke="#979797" stroke-width="0.5" fill="#FFFFFF" cx="119" cy="119" r="119"></circle>
+                    <circle id="Oval-Copy" stroke="url(#linearGradient-1)" stroke-width="6" cx="119" cy="119" r="72"></circle>
+                </g>
+            </g>
+        </g>
+        <polygon id="Star" fill="url(#linearGradient-2)" transform="translate(118.852142, 119.032140) rotate(43.000000) translate(-118.852142, -119.032140) " points="118.852142 121.756433 80.1463257 162.039377 116.400322 119.03214 80.1463257 76.0249026 118.852142 116.307847 157.557957 76.0249026 121.303961 119.03214 157.557957 162.039377"></polygon>
+    </g>
+</svg>
